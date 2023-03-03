@@ -28,6 +28,12 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Discourses on Livy</dc:title>
 		<meta property="file-as" refines="#title">Discourses on Livy</meta>
+		<meta property="dcterms:alternative" refines="#title">Discorsi sopra la prima deca di Tito Livio</meta>
+		<meta property="dcterms:alternative" refines="#title">Discourses</meta>
+		<meta property="dcterms:alternative" refines="#title">Discourses on the First Ten Books of Livy</meta>
+		<meta property="dcterms:alternative" refines="#title">Discourses on the First Ten Books of Titus Livy</meta>
+		<meta property="dcterms:alternative" refines="#title">Discourses on the First Ten Books of Titus Livius</meta>
+		<meta property="dcterms:alternative" refines="#title">Discourses on the First Decade of Titus Livius</meta>
 		<dc:subject id="subject-1">Political science -- Early works to 1800</dc:subject>
 		<dc:subject id="subject-2">Livy. Ab urbe condita</dc:subject>
 		<dc:subject id="subject-3">Rome -- Historiography</dc:subject>
@@ -37,14 +43,14 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008116719</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10827</dc:source>
-		<dc:source>IA_URL</dc:source>
+		<dc:source>https://archive.org/details/cu31924030435659</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -52,14 +58,13 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/niccolo-machiavelli_discourses-on-livy_ninian-hill-thomson</meta>
 		<dc:creator id="author">Niccolò Machiavelli</dc:creator>
 		<meta property="file-as" refines="#author">Machiavelli, Niccolò</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Niccolò di Bernardo dei Machiavelli</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78096105</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Ninian Hill Thomson</dc:contributor>
 		<meta property="file-as" refines="#translator">Thomson, Ninian Hill</meta>
-		<meta property="se:name.person.full-name" refines="#translator">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">CONTRIBUTOR_WIKI_URL</meta>
+		<meta property="se:name.person.full-name" refines="#translator">Ninian Hill Thomson</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/nb99149652</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Guillaume Guillon Léthière</dc:contributor>
@@ -67,13 +72,14 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Guillaume_Guillon-Lethi%C3%A8re</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n96072591</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Ted Garvin</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Garvin, Ted</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Jayam Subramanian</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Subramanian, Jayam</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Anonymous</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
