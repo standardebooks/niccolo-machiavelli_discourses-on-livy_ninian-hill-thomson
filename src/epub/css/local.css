@@ -21,3 +21,12 @@
 	text-align: justify;
 }
 /* End Bridgeheads */
+
+/* Dedication */
+[epub|type~="z3998:salutation"]{
+	font-variant: small-caps;
+}
+
+#dedication span[epub|type~="z3998:valediction"]{
+	font-style: italic;
+}
