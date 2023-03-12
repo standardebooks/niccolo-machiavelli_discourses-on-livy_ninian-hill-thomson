@@ -64,7 +64,6 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Ninian Hill Thomson</dc:contributor>
 		<meta property="file-as" refines="#translator">Thomson, Ninian Hill</meta>
-		<meta property="se:name.person.full-name" refines="#translator">Ninian Hill Thomson</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/nb99149652</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="se:role" refines="#translator" scheme="marc:relators">ann</meta>
