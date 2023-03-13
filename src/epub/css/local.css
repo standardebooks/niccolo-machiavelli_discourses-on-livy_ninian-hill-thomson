@@ -14,17 +14,6 @@ blockquote[xml|lang]{
 	text-align: justify;
 	text-indent: 0;
 }
-
-[epub|type~="bridgehead"] i{
-	font-style: normal;
-}
-
-[epub|type~="z3998:poem"] [epub|type~="bridgehead"],
-[epub|type~="z3998:verse"] [epub|type~="bridgehead"],
-[epub|type~="z3998:song"] [epub|type~="bridgehead"],
-[epub|type~="z3998:hymn"] [epub|type~="bridgehead"]{
-	text-align: justify;
-}
 /* End Bridgeheads */
 
 /* Verse */
@@ -41,10 +30,6 @@ blockquote[xml|lang]{
 
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
-}
-
-[epub|type~="z3998:verse"] p + p{
-	margin-top: 1em;
 }
 
 p span.i1{
