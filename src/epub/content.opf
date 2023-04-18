@@ -44,9 +44,10 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008116719</meta>
 		<meta property="se:subject">Philosophy</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Machiavelli’s classic treatise on how to prevent the tyranny of a Prince.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;A very different work from his well-known &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/niccolo-machiavelli/the-prince/w-k-marriott"&gt;The Prince&lt;/a&gt;&lt;/i&gt;, and posthumously published a year prior to it, &lt;a href="https://standardebooks.org/ebooks/niccolo-machiavelli"&gt;Machiavelli’s&lt;/a&gt; &lt;i&gt;Discourses on Livy&lt;/i&gt; is one of his most debated works. Some critics see it as presenting a counterpoint or refutation of &lt;i&gt;The Prince&lt;/i&gt;, calling it a key founding document of modern liberal republicanism. Others maintain that it is complementary, arguing that leaders of republics must act in the manner Machiavelli prescribes in &lt;i&gt;The Prince&lt;/i&gt; if they are to maintain their state’s freedom. It is a deep and complex work of political philosophy.&lt;/p&gt;
+			&lt;p&gt;Both complementary and critical of contemporary Italian Renaissance politics, culture, and religion, &lt;i&gt;Discourses on Livy&lt;/i&gt; uses Roman history, as described in the first ten books of Livy’s &lt;i lang="la"&gt;Ab urbe condita&lt;/i&gt;, to explain Machiavelli’s views across a broad range of subjects. The 142 discourses discuss political violence, military strategy, political corruption and reform, conspiracy, public opinion, the role of religion in public life, and much more.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10827</dc:source>
