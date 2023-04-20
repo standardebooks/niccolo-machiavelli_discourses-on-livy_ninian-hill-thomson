@@ -36,6 +36,14 @@ p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;
 }
+p span.i6{
+	padding-left: 7em;
+	text-indent: -1em;
+}
+p span.i10{
+	padding-left: 11em;
+	text-indent: -1em;
+}
 /* End Verse */
 
 /* Dedication */
