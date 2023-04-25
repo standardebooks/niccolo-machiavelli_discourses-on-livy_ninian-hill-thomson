@@ -49,8 +49,7 @@ p span.i10{
 /* End Verse */
 
 /* Dedication */
-#dedication p:first-of-type{
+#dedication header{
 	font-variant: small-caps;
 	margin: 1em auto;
-	text-align: center;
 }
