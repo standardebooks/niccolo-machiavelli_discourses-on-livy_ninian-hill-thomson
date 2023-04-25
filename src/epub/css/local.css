@@ -2,7 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
-blockquote[xml|lang]{
+p[xml|lang]{
 	font-style: italic;
 }
 
@@ -49,6 +49,8 @@ p span.i10{
 /* End Verse */
 
 /* Dedication */
-#dedication header p{
+#dedication p:first-of-type{
 	font-variant: small-caps;
+	margin: 1em auto;
+	text-align: center;
 }
