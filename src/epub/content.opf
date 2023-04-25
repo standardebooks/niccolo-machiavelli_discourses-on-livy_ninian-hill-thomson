@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/niccolo-machiavelli/discourses-on-livy/ninian-hill-thomson</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-04-25T04:13:31Z</dc:date>
+		<meta property="dcterms:modified">2023-04-25T04:13:31Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -28,7 +28,6 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Discourses on Livy</dc:title>
 		<meta property="file-as" refines="#title">Discourses on Livy</meta>
-		<meta property="dcterms:alternative" refines="#title">Discorsi sopra la prima deca di Tito Livio</meta>
 		<meta property="dcterms:alternative" refines="#title">Discourses</meta>
 		<meta property="dcterms:alternative" refines="#title">Discourses on the First Ten Books of Livy</meta>
 		<meta property="dcterms:alternative" refines="#title">Discourses on the First Ten Books of Titus Livy</meta>
@@ -46,15 +45,15 @@
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">The classic treatise on how to prevent the tyranny of a Prince.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;A very different work from his well-known &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/niccolo-machiavelli/the-prince/w-k-marriott"&gt;The Prince&lt;/a&gt;&lt;/i&gt;, and posthumously published a year prior to it, &lt;a href="https://standardebooks.org/ebooks/niccolo-machiavelli"&gt;Machiavelli’s&lt;/a&gt; &lt;i&gt;Discourses on Livy&lt;/i&gt; is one of his most debated works. Some critics see it as presenting a counterpoint or refutation of &lt;i&gt;The Prince&lt;/i&gt;, calling it a key founding document of modern liberal republicanism. Others maintain that it is complementary, arguing that leaders of republics must act in the manner Machiavelli prescribes in &lt;i&gt;The Prince&lt;/i&gt; if they are to maintain their state’s freedom. It is a deep and complex work of political philosophy.&lt;/p&gt;
+			&lt;p&gt;A very different work from his well-known &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/niccolo-machiavelli/the-prince/w-k-marriott"&gt;The Prince&lt;/a&gt;&lt;/i&gt;, and posthumously published a year prior to it, &lt;a href="https://standardebooks.org/ebooks/niccolo-machiavelli"&gt;Machiavelli’s&lt;/a&gt; &lt;i&gt;Discourses on Livy&lt;/i&gt; is one of his most debated works. Some critics see it as presenting a counterpoint or refutation of &lt;i&gt;The Prince&lt;/i&gt;, calling it a key founding document of modern liberal republicanism. Others maintain that it is complementary, arguing that leaders of republics must act in the manner Machiavelli prescribes in &lt;i&gt;The Prince&lt;/i&gt; if they are to maintain their state’s freedom. In any case, it is a deep and complex work of political philosophy.&lt;/p&gt;
 			&lt;p&gt;Both complementary and critical of contemporary Italian Renaissance politics, culture, and religion, &lt;i&gt;Discourses on Livy&lt;/i&gt; uses Roman history, as described in the first ten books of Livy’s &lt;i lang="la"&gt;Ab urbe condita&lt;/i&gt;, to explain Machiavelli’s views across a broad range of subjects. The 142 discourses discuss political violence, military strategy, political corruption and reform, conspiracy, public opinion, the role of religion in public life, and much more.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10827</dc:source>
 		<dc:source>https://archive.org/details/cu31924030435659</dc:source>
 		<meta property="se:production-notes">I kept 'alae' and 'principes' italicized (xml lang = Latin) in Book 2 Chapter 16, as they are part of a large paragraph of various latin translations, and removing only these would read strangely (also, 'principes' is not used in the sense of any of the English definitions in Merriam-Webster). I also kept 'scaramouches' italicized (xml lang = Italian) as it is not used in the sense of any of the English definitions in Merriam-Webster. se find-mismatched-diacritics finds 'chè' vs 'che' but these are correct per book scans (Italian words).</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">137634</meta>
+		<meta property="se:reading-ease.flesch">37.51</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Discourses_on_Livy</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/niccolo-machiavelli_discourses-on-livy_ninian-hill-thomson</meta>
 		<dc:creator id="author">Niccolò Machiavelli</dc:creator>
@@ -87,6 +86,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
