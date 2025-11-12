@@ -66,8 +66,8 @@
 		<dc:contributor id="translator">Ninian Hill Thomson</dc:contributor>
 		<meta property="file-as" refines="#translator">Thomson, Ninian Hill</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/nb99149652</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Guillaume Guillon Lethière</dc:contributor>
 		<meta property="file-as" refines="#artist">Lethière, Guillaume Guillon</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Guillaume_Guillon-Lethi%C3%A8re</meta>
