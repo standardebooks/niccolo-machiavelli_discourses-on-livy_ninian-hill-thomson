@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 590">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 690">
 	<title>The titlepage for the Standard Ebooks edition of Discourses on Livy, by Niccolò Machiavelli. Translated by Ninian Hill Thomson</title>
 	<style type="text/css">
 		text{
@@ -27,8 +27,9 @@
 			font-size: 46.78362656px;
 		}
 	</style>
-	<text class="title" x="700" y="130">DISCOURSES ON LIVY</text>
-	<text class="author" x="700" y="290">NICCOLÒ MACHIAVELLI</text>
-	<text class="contributor-descriptor" x="700" y="480">translated by</text>
-	<text class="contributor" x="700" y="540">NINIAN HILL THOMSON</text>
+	<text class="title" x="700" y="130">DISCOURSES</text>
+	<text class="title" x="700" y="230">ON LIVY</text>
+	<text class="author" x="700" y="390">NICCOLÒ MACHIAVELLI</text>
+	<text class="contributor-descriptor" x="700" y="580">translated by</text>
+	<text class="contributor" x="700" y="640">NINIAN HILL THOMSON</text>
 </svg>
