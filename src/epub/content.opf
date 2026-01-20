@@ -53,7 +53,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/10827</dc:source>
 		<dc:source>https://archive.org/details/cu31924030435659</dc:source>
 		<meta property="se:production-notes">I kept 'alae' and 'principes' italicized (xml lang = Latin) in Book 2 Chapter 16, as they are part of a large paragraph of various latin translations, and removing only these would read strangely (also, 'principes' is not used in the sense of any of the English definitions in Merriam-Webster). I also kept 'scaramouches' italicized (xml lang = Italian) as it is not used in the sense of any of the English definitions in Merriam-Webster. se find-mismatched-diacritics finds 'chè' vs 'che' but these are correct per book scans (Italian words).</meta>
-		<meta property="se:word-count">137634</meta>
+		<meta property="se:word-count">137547</meta>
 		<meta property="se:reading-ease.flesch">37.51</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Discourses_on_Livy</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/niccolo-machiavelli_discourses-on-livy_ninian-hill-thomson</meta>
